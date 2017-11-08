@@ -1,2 +1,2 @@
 # FYprocs178134
-this is cs program
+This is computer science program
